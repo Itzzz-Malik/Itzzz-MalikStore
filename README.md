@@ -1,1 +1,3 @@
 # Itzzz-MalikStore
+
+```privacy policy```
